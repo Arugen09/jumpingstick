@@ -1,1 +1,2 @@
-# jumpingstick
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
